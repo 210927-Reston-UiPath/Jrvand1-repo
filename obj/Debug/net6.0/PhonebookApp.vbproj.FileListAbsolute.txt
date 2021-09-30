@@ -1,0 +1,15 @@
+/Users/jakevanderzanden/Desktop/VB.net/PhonebookApp/bin/Debug/net6.0/PhonebookApp
+/Users/jakevanderzanden/Desktop/VB.net/PhonebookApp/bin/Debug/net6.0/PhonebookApp.deps.json
+/Users/jakevanderzanden/Desktop/VB.net/PhonebookApp/bin/Debug/net6.0/PhonebookApp.runtimeconfig.json
+/Users/jakevanderzanden/Desktop/VB.net/PhonebookApp/bin/Debug/net6.0/PhonebookApp.dll
+/Users/jakevanderzanden/Desktop/VB.net/PhonebookApp/bin/Debug/net6.0/ref/PhonebookApp.dll
+/Users/jakevanderzanden/Desktop/VB.net/PhonebookApp/bin/Debug/net6.0/PhonebookApp.pdb
+/Users/jakevanderzanden/Desktop/VB.net/PhonebookApp/obj/Debug/net6.0/PhonebookApp.vbproj.AssemblyReference.cache
+/Users/jakevanderzanden/Desktop/VB.net/PhonebookApp/obj/Debug/net6.0/PhonebookApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakevanderzanden/Desktop/VB.net/PhonebookApp/obj/Debug/net6.0/PhonebookApp.AssemblyInfoInputs.cache
+/Users/jakevanderzanden/Desktop/VB.net/PhonebookApp/obj/Debug/net6.0/PhonebookApp.AssemblyInfo.vb
+/Users/jakevanderzanden/Desktop/VB.net/PhonebookApp/obj/Debug/net6.0/PhonebookApp.vbproj.CoreCompileInputs.cache
+/Users/jakevanderzanden/Desktop/VB.net/PhonebookApp/obj/Debug/net6.0/PhonebookApp.dll
+/Users/jakevanderzanden/Desktop/VB.net/PhonebookApp/obj/Debug/net6.0/ref/PhonebookApp.dll
+/Users/jakevanderzanden/Desktop/VB.net/PhonebookApp/obj/Debug/net6.0/PhonebookApp.pdb
+/Users/jakevanderzanden/Desktop/VB.net/PhonebookApp/obj/Debug/net6.0/PhonebookApp.genruntimeconfig.cache
